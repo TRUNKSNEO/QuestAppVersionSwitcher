@@ -1,4 +1,5 @@
-# Quest App Version Switcher
+> [!WARNING]
+> This repository has moved to Codeberg: https://codeberg.org/kaiya/QuestAppVersionSwitcher # Quest App Version Switcher
 
 ## Building
 
